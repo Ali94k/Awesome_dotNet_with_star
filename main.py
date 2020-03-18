@@ -29,7 +29,7 @@ with open('withStart.md', 'w') as f:
                     repo ='https://api.github.com/repos/'+owner+'/'+proj
                     print('https://api.github.com/repos/'+owner+'/'+proj)
                     r = requests.get(
-                        'https://api.github.com/repos/'+owner+'/'+proj, auth=HTTPBasicAuth('Ali94k', ''))
+                        'https://api.github.com/repos/'+owner+'/'+proj, auth=HTTPBasicAuth('', ''))
                     if(r.ok):
                         repoItem = json.loads(r.text or r.content)
                         print("created: " + repoItem["created_at"])
