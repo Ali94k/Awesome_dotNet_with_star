@@ -561,7 +561,7 @@
 |[tmsmith/Dapper-Extensions](https://github.com/tmsmith/Dapper-Extensions)|Dapper Extensions is a small library that complements Dapper by adding basic CRUD operations (Get, Insert, Update, Delete) for your POCOs. For more advanced querying scenarios, Dapper Extensions provides a predicate system. The goal of this library is to keep your POCOs pure by not requiring any attributes or base class inheritance.|1345|
 |[dotnet/ef6](https://github.com/dotnet/ef6)|This is the codebase for Entity Framework 6 (previously maintained at https://entityframework.codeplex.com). Entity Framework Core is maintained at https://github.com/dotnet/efcore.|1114|
 |[schotime/NPoco](https://github.com/schotime/NPoco)|Simple microORM that maps the results of a query onto a POCO object. Project based on Schotime's branch of PetaPoco|721|
-|[dotnetcore/SmartSql](https://github.com/dotnetcore/SmartSql)|SmartSql = MyBatis in C# + .NET Core+ Cache(Memory | Redis) + R/W Splitting + PropertyChangedTrack  +Dynamic Repository + InvokeSync + Diagnostics|653|
+|[dotnetcore/SmartSql](https://github.com/dotnetcore/SmartSql)|SmartSql = MyBatis in C# + .NET Core+ Cache(Memory / Redis) + R/W Splitting + PropertyChangedTrack  +Dynamic Repository + InvokeSync + Diagnostics|653|
 |[jonwagner/Insight.Database](https://github.com/jonwagner/Insight.Database)|Fast, lightweight .NET micro-ORM|543|
 |[MoonStorm/Dapper.FastCRUD](https://github.com/MoonStorm/Dapper.FastCRUD)|The fastest micro-orm extension for Dapper|326|
 |[mikependon/RepoDb](https://github.com/mikependon/RepoDb)|A hybrid ORM library for .NET.|275|
